@@ -9,7 +9,7 @@
  numbers = [5, 3, 8, 6, 2]
  print("Sorted List:", bubble_sort(numbers))
 
-improved bug fix sorting 
+#improved bug fix sorting 
 
 def quick_sort(arr):
     if len(arr) <= 1:
